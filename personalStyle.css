@@ -1,7 +1,15 @@
 .header{
-    widows: 100%;
-    height: 15%;
-    background-color: red;
+    width: 100%;
+    height: 100px;
+    background-color: rgba(209, 13, 13, 0.5); 
     text-align: center;
+    text-size: 50px;
+}
+.section1{
+    width: 35%;
+    height: 50px;
+    padding: 20px;
+    margin: 30px;
+    background-color: rgba(214, 14, 14, 0.801);
 
 }
